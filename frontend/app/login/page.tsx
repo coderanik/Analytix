@@ -148,16 +148,6 @@ export default function LoginPage() {
                 </Link>
               </div>
             </form>
-
-            <div className="mt-6 pt-6 border-t">
-              <p className="text-xs text-center text-muted-foreground mb-2">
-                Demo credentials:
-              </p>
-              <div className="text-xs text-center space-y-1 text-muted-foreground">
-                <p>Email: alex@example.com</p>
-                <p>Password: password123</p>
-              </div>
-            </div>
           </CardContent>
         </Card>
       </motion.div>
