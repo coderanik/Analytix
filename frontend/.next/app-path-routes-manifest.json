@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/analytics/page": "/analytics",
+  "/help/page": "/help",
+  "/login/page": "/login",
+  "/notifications/page": "/notifications",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/register/page": "/register",
+  "/reports/page": "/reports",
+  "/settings/page": "/settings",
+  "/users/page": "/users"
+}
