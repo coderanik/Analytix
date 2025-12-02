@@ -240,8 +240,6 @@ const seedData = async () => {
     console.log(`Created ${totalActivities} activity records...`);
     console.log(`Created ${totalTraffic} traffic records...`);
 
-    console.log(`Created ${traffic.length} traffic records...`);
-
     // Create notifications
     const notifications = await Notification.insertMany([
       {
