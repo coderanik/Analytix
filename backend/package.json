@@ -5,6 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
+    "build": "echo \"Skipping build step for backend server\"",
     "start": "node server.js",
     "dev": "nodemon server.js",
     "seed": "node scripts/seed.js"
