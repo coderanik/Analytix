@@ -99,7 +99,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Users/anik/Code/saas-analytics-dashboard/frontend",
+    "outputFileTracingRoot": "/Users/anik/Code/Analytix/frontend",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -289,11 +289,11 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "/Users/anik/Code/saas-analytics-dashboard/frontend"
+      "root": "/Users/anik/Code/Analytix/frontend"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "/Users/anik/Code/saas-analytics-dashboard/frontend",
+  "appDir": "/Users/anik/Code/Analytix/frontend",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",
